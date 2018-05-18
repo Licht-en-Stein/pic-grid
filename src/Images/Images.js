@@ -10,7 +10,6 @@ class Image extends Component {
   static getDerivedStateFromProps (nextProps, prevState){
     console.log('component will receive props', nextProps);
     return ({url: nextProps.pictures})
-   
   }
 
   shouldComponentUpdate(nextProps, nextState) {
