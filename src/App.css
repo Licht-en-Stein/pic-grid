@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #222;
+  height: 10vh;
+  color: #fff;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.Image {
+  display: inline-block;
+  }
+
+img {
+  width: 200px;
+  height: 200px;
+  margin-top: .3rem;
+}
+
+
+
