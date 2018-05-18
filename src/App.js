@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Button, Container, Row, Col } from 'reactstrap';
 import './App.css';
-import Image from './Images/Image';
+import Image from './Images/Images';
 
 
 class App extends Component {
