@@ -1,5 +1,5 @@
 # Picsum Grid   
-Getting used to React and reactstrap. 
+Getting used to React and reactstrap.  
 An exercise using the new getDerivedStateFromProps.
 
 ## Deploy
