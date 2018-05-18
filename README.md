@@ -1,5 +1,6 @@
-# Picsum Grid
+# Picsum Grid   
 Getting used to React. 
+
 An exercise using the new getDerivedStateFromProps.
 
 ## Deploy
