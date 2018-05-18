@@ -2,7 +2,7 @@
   "name": "task3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Licht-en-Stein.github.io/picsum-grid/",
+  "homepage": "https://Licht-en-Stein.github.io/pic-grid/",
   "dependencies": {
     "bootstrap": "^4.0.0",
     "gh-pages": "^1.1.0",
